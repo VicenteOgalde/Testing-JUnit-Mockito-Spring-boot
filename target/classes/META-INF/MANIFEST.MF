@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Implementation-Title: Testing-Test-Spring-Boot-Junit-Mockito
+Implementation-Version: 1.0
+Created-By: Maven Integration for Eclipse
+
